@@ -41,3 +41,5 @@ npm run preview
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
 # Nuxt3-Sample-Proxy
+
+We use [nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) to add proxy when API call. Look at the [nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) to check the plugin documentation.
